@@ -36,8 +36,7 @@
                                                         </td>
                                                     </tr>';
 
-    $paginas = $obPagination->getPages();
-    echo "<pre>"; print_r($paginas); echo "</pre>"; exit;
+    
 
 ?>
 

@@ -20,7 +20,7 @@ class Pagination{
 	private $results;
 
 	/**
-	*numero de paginas
+	*Número de paginas
 	*@var integer 
 	*/
 	private $pages;
